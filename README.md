@@ -1,47 +1,49 @@
-# Илья Гончаров
+# Illia Goncharov  
 
-Превращаю хаос требований в стройные системы и интерфейсы, где всё на своём месте. Умею делать, чтобы сложная архитектура выглядела просто — а код радовал глаз.
+I build systems and interfaces that stay clear and reliable even when requirements change.  
+I like when code is simple to read, easy to maintain, and the architecture makes sense.  
 
-Работаю на стыке технологий и дизайна: пишу понятный, быстрый фронтенд на **TypeScript/React**, строю надёжный бэкенд на **Node.js**, тестирую так, чтобы баги не доживали до продакшена.
+I usually work with **TypeScript/React** on the frontend and **Node.js** on the backend.  
+Testing is part of the process, not an afterthought.  
 
-Проект для меня — не набор тикетов, а возможность сделать продукт, которая переживёт дедлайны и будет развиваться.
-
----
-
-## Стек
-- **TypeScript**, **JavaScript** — строгий и гибкий код  
-- **React**, **Redux** — динамичные и управляемые интерфейсы  
-- **Node.js** — надёжная серверная логика  
-- **CSS/SCSS Modules** — аккуратная модульная стилизация  
-- **Cypress**, **Jest** — тонкое тестирование   
-- **REST**, **GraphQL** — интеграции и работа с данными  
+For me, a project is a product: something that should work not only for today’s deadline but also in the long run.  
 
 ---
 
-## Сейчас в работе 
-- https://brownfox.org/
-- https://nohome.cloud/
+## Tech Stack  
+- **TypeScript**, **JavaScript** — main languages  
+- **React**, **Redux** — UI development  
+- **Node.js** — backend and APIs  
+- **CSS/SCSS Modules** — styling  
+- **Cypress**, **Jest** — testing  
+- **REST**, **GraphQL** — working with data  
 
 ---
 
-## Недавно завершил
-- Интерактивное приложение для известного розового доставщика еды и выставки современного искусства — соединил технологии и креатив в одном продукте  
+## Current Work  
+- [brownfox.org](https://brownfox.org/)  
+- [nohome.cloud](https://nohome.cloud/)  
 
 ---
 
-## Изучаю
-- Архитектуры, которые остаются стабильными в сложных условиях  
-- Повышение доступности и производительности веб-приложений  
-- Современные подходы к управлению состоянием и организации кода  
+## Recent Project  
+- Interactive app for a food delivery brand and an art exhibition — combining frontend logic with creative design tasks.  
 
 ---
 
-## О себе
-- Архитектура: учит видеть порядок в хаосе и ценить устойчивость  
-- Пленочная фотография: умение уловить момент  
-- Музыка: находить ритм и баланс в работе и жизни  
+## Learning Focus  
+- Scalable code architecture  
+- Accessibility and performance  
+- State management patterns (FSD, GraphQL, modern tools)  
 
 ---
 
-## Контакты
-[Telegram](https://t.me/binarygraph)
+## A Bit More  
+- Into architecture — like to see structure where it’s not obvious  
+- Film photography — teaches patience and attention  
+- Music — keeps balance  
+
+---
+
+## Contact  
+[Telegram](https://t.me/binarygraph)  
