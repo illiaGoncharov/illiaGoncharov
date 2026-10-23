@@ -7,9 +7,9 @@ I like when code is simple to read, easy to maintain, and the architecture makes
 ---
 
 ## Now  
-- **[Brownfox](https://brownfox.org/)** — commercial font store on Next.js App Router. Multilingual, Sanity CMS, four payment providers (Stripe, YooKassa, FastSpring, LemonSqueezy) with VAT-aware checkout. *Client project — code is private.*
-- **[Appyland](https://appyland.ru/)** — studio website built with a small team, vanilla JS + Vite with a custom asset pipeline.
-- **[Banena](https://banena.ru/)** — photo & video portfolio, Next.js + Tailwind, custom gallery engine with a lightbox and filmstrip view.
+- **Brownfox** — commercial font store on Next.js App Router. Multilingual, Sanity CMS, four payment providers (Stripe, YooKassa, FastSpring, LemonSqueezy) with VAT-aware checkout. *Client project — code is private.* [Live](https://brownfox.org/)
+- **[Appyland](https://github.com/illiaGoncharov/appyland)** — studio website built with a small team, vanilla JS + Vite with a custom asset pipeline. [Live](https://appyland.ru/)
+- **[Banena](https://github.com/illiaGoncharov/banena)** — photo & video portfolio, Next.js + Tailwind, custom gallery engine with a lightbox and filmstrip view. [Live](https://banena.ru/)
 - **Mobile app, in progress** — React Native + TypeScript, gamifying architecture walks (POI, collections, camera-based capture flow) on top of Firebase Auth/Firestore/Storage. Not public yet.
 
 ---
