@@ -16,7 +16,7 @@ I like when code is simple to read, easy to maintain, and the architecture makes
 
 ## Selected Work  
 - **[True Code](https://github.com/illiaGoncharov/true-code)** — fullstack playground: NestJS + TypeORM + PostgreSQL API, React/Vite client on TanStack Query and Zustand, full docker-compose setup.
-- **[Greenwich Gallery](https://github.com/illiaGoncharov/greenwich)** — UK contemporary art client. Full cycle in English: requirements, Figma concept & defense, Next.js (App Router) + TypeScript + Tailwind landing (1:1 rewrite of the original build). [Live](https://illiagoncharov.github.io/greenwich/)
+- **[Greenwich Gallery](https://github.com/illiaGoncharov/greenwich)** — UK contemporary art client. Full cycle in English: requirements, Figma concept & defense, Next.js (App Router) + TypeScript + Tailwind landing (1:1 rewrite of the original build). [Live](https://illiagoncharov.github.io/greenwich/) · [Figma](https://www.figma.com/file/G3nlVn2lGYeuurKSYEw8Ug/Greenwich?type=design&node-id=65%3A2&mode=design)
 - **IME / Igloo** — NDA medical projects. Node.js/Express backend ingesting data from medical devices, real-time delivery over WebSocket, MongoDB, retry logic for unstable connections.
 
 ---
