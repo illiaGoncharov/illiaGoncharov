@@ -16,8 +16,8 @@ I like when code is simple to read, easy to maintain, and the architecture makes
 
 ## Selected Work  
 - **[True Code](https://github.com/illiaGoncharov/true-code)** — fullstack playground: NestJS + TypeORM + PostgreSQL API, React/Vite client on TanStack Query and Zustand, full docker-compose setup.
-- **IME / Igloo** — NDA medical projects. Node.js/Express backend ingesting data from medical devices, real-time delivery over WebSocket, MongoDB, retry logic for unstable connections.
 - **[Greenwich Gallery](https://github.com/illiaGoncharov/greenwich)** — UK contemporary art client. Full cycle in English: requirements, Figma concept & defense, HTML/CSS/JS build with animations and load tuning. [Live](https://illiagoncharov.github.io/greenwich/)
+- **IME / Igloo** — NDA medical projects. Node.js/Express backend ingesting data from medical devices, real-time delivery over WebSocket, MongoDB, retry logic for unstable connections.
 
 ---
 
