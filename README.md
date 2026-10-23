@@ -8,16 +8,16 @@ I like when code is simple to read, easy to maintain, and the architecture makes
 
 ## Now  
 - **[Brownfox](https://brownfox.org/)** — commercial font store on Next.js App Router. Multilingual, Sanity CMS, four payment providers (Stripe, YooKassa, FastSpring, LemonSqueezy) with VAT-aware checkout. *Client project — code is private.*
-- **[Banena](https://banena.ru/)** — photo & video portfolio, Next.js + Tailwind, custom gallery engine with a lightbox and filmstrip view.
 - **[Appyland](https://appyland.ru/)** — studio website built with a small team, vanilla JS + Vite with a custom asset pipeline.
+- **[Banena](https://banena.ru/)** — photo & video portfolio, Next.js + Tailwind, custom gallery engine with a lightbox and filmstrip view.
 - **Mobile app, in progress** — React Native + TypeScript, gamifying architecture walks (POI, collections, camera-based capture flow) on top of Firebase Auth/Firestore/Storage. Not public yet.
 
 ---
 
 ## Selected Work  
+- **[True Code](https://github.com/illiaGoncharov/true-code)** — fullstack playground: NestJS + TypeORM + PostgreSQL API, React/Vite client on TanStack Query and Zustand, full docker-compose setup.
 - **IME / Igloo** — NDA medical projects. Node.js/Express backend ingesting data from medical devices, real-time delivery over WebSocket, MongoDB, retry logic for unstable connections.
 - **Greenwich Gallery** — contemporary art gallery in the UK. Owned the project end-to-end in English: requirements, Figma concept, defense, build.
-- **[True Code](https://github.com/illiaGoncharov/true-code)** — fullstack playground: NestJS + TypeORM + PostgreSQL API, React/Vite client on TanStack Query and Zustand, full docker-compose setup.
 
 ---
 
